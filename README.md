@@ -27,4 +27,4 @@
 - Step 1: run **flutter pub get** for install flutter pub
 - Step 2: replace socket url by ip and port your server in **flutter_webrtc_sfus/lib/src/pages/home/home_page.dart**, line **79**
 - Step 3: run app and auto connect in call
-    ![Alt text](https://res.cloudinary.com/demo/image/upload/sample.jpg)
+  
